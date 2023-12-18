@@ -12,7 +12,7 @@ use gpt and other language model's help, to analyse VR app's security problem.
 python环境：3.11
 ### 单个apk处理
 
-1. 打开VR_Security_with_GPT.py，修改openai.api_key为自己的key值。具体如何获得看https://blog.csdn.net/qq_32265503/article/details/130471485。
+1. 打开VR_Security_with_GPT.py，修改openai.api_key为自己的key值。具体如何获得看<https://blog.csdn.net/qq_32265503/article/details/130471485>。
 
 2. 修改main中的apk_src、description分别为自己的应用安装包路径、应用描述，随后运行。
 
