@@ -1,6 +1,5 @@
 # VR_Security_with_GPT
-use gpt and other language model's help, to analyse VR app's security problem.
-
+With ChatGPT and other language model's help, this project analyses VR application's security problem.
 ## 项目内容
 输入：应用apk、此应用功能的描述。
 
